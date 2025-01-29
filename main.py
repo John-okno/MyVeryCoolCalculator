@@ -1,5 +1,4 @@
-import this
 import math
-from add import add
+from arithmetic import add
 
 print(add(1, 2))
